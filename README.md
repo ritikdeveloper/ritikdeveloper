@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-u3g1.onrender.com/](https://portfolio-u3g1.onrender.com/)
 
-- 💬 Ask me about **Vue,Java**
+- 💬 Ask me about **Vue,Angular,Java**
 
 - 📫 How to reach me **Ritik1.mehrotra@gmail.com**
 
